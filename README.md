@@ -5,9 +5,10 @@ This is a project for **Hackshetra 2020**. It aims to provide easy access to all
  - Live Monitoring and Configuration"
 	 1. Permissions granted
 	 2. Notification Access
-	 3. trackers
-	 4. Cookies
-	 5. Information accessible by the browser
+	 3. Trackers Access
+	 4. Cookies Access
+	 5. Browser Finger Printing
+	 6. User Accounts Tests
  - Network Permissions
  - Hardware permissions
  - Password leaks
